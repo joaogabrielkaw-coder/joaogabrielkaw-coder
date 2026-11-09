@@ -32,11 +32,4 @@ Sinta-se à vontade para se conectar comigo ou me mandar uma mensagem:
 
 ---
 
-## 📊 Estrutura do Repositório
 
-```text
-├── 📁 01-basico/            # Primeiros passos, variáveis, condicionais e laços de repetição.
-├── 📁 02-intermediario/     # Funções, estruturas de dados e manipulação de arquivos.
-├── 📁 03-avancado/          # Orientação a objetos, automações e projetos mais elaborados.
-├── 📁 04-banco-de-dados/    # Modelagem relacional (DER), scripts DDL/DML em MySQL e SQLite.
-└── 📁 05-analise-e-dados/   # Tratamento de dados, consultas analíticas e conceitos de arquitetura.
