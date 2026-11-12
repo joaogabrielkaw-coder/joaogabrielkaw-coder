@@ -1,6 +1,14 @@
+
 <div align="center">
-  <img src="./assets/github-banner.png" width="100%">
+  <img
+    src="./assets/github-banner.png"
+    alt="Banner de João Gabriel Silva"
+    width="100%"
+  >
 </div>
+
+---
+
 
 <table>
 <tr>
