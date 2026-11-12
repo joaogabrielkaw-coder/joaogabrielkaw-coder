@@ -1,6 +1,6 @@
 <div align="center">
-
-<img src="./assets/python-code-banner.png" alt="Banner com código Python em tons escuros de vermelho e roxo" width="100%">
+  <img src="./assets/github-banner.png" width="100%">
+</div>
 
 <table>
 <tr>
