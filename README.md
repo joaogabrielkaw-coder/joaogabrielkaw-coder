@@ -1,28 +1,26 @@
-
 <div align="center">
-  <img
-    src="./assets/github-banner.png"
-    alt="Banner de João Gabriel Silva"
-    width="100%"
-  >
+  <img src="./assets/github-banner.png" alt="Banner de JoÃ£o Gabriel Silva" width="100%">
 </div>
 
 ---
 
+<div align="center">
+
+<img src="./assets/python-code-banner.png" alt="Banner com cÃ³digo Python em tons escuros de vermelho e roxo" width="100%">
 
 <table>
 <tr>
 <td width="220" align="center">
-<img src="./assets/joao-gabriel-avatar.png" alt="Foto de João Gabriel Silva" width="190">
+<img src="./assets/joao-gabriel-avatar.png" alt="Foto de JoÃ£o Gabriel Silva" width="190">
 </td>
 <td align="left">
 
-# João Gabriel Silva
-### Estudante de Gestão da Tecnologia da Informação | Desenvolvedor em formação
+# JoÃ£o Gabriel Silva
+### Estudante de GestÃ£o da Tecnologia da InformaÃ§Ã£o | Desenvolvedor em formaÃ§Ã£o
 
-Olá! Seja muito bem-vindo(a) ao meu GitHub.
+OlÃ¡! Seja muito bem-vindo(a) ao meu GitHub.
 
-Sou estudante de Gestão da Tecnologia da Informação e entusiasta de tecnologia, programação, bancos de dados, inteligência artificial e redes de computadores. Utilizo este espaço para compartilhar projetos, estudos e experiências práticas enquanto desenvolvo minhas habilidades e construo minha trajetória na área de TI.
+Sou estudante de GestÃ£o da Tecnologia da InformaÃ§Ã£o e entusiasta de tecnologia, programaÃ§Ã£o, bancos de dados, inteligÃªncia artificial e redes de computadores. Utilizo este espaÃ§o para compartilhar projetos, estudos e experiÃªncias prÃ¡ticas enquanto desenvolvo minhas habilidades e construo minha trajetÃ³ria na Ã¡rea de TI.
 
 </td>
 </tr>
@@ -36,7 +34,7 @@ Sou estudante de Gestão da Tecnologia da Informação e entusiasta de tecnologi
 
 ---
 
-## 🧰 Tecnologias e conhecimentos
+## ðŸ§° Tecnologias e conhecimentos
 
 Tecnologias e ferramentas que utilizo, estudo ou exploro em meus projetos:
 
@@ -55,51 +53,51 @@ Tecnologias e ferramentas que utilizo, estudo ou exploro em meus projetos:
 
 </div>
 
-## 🐍 Código e prática em Python
+## ðŸ CÃ³digo e prÃ¡tica em Python
 
 <div align="center">
-<img src="./assets/python-code-banner.png" alt="Exemplo visual de código Python" width="90%">
+<img src="./assets/python-code-banner.png" alt="Exemplo visual de cÃ³digo Python" width="90%">
 </div>
 
-## 🚀 Portfólios e projetos
+## ðŸš€ PortfÃ³lios e projetos
 
-### 1. 📱 Aplicativo mobile com IA para estudos de programação
+### 1. ðŸ“± Aplicativo mobile com IA para estudos de programaÃ§Ã£o
 
-**Projeto principal do meu portfólio.**
+**Projeto principal do meu portfÃ³lio.**
 
-Aplicativo mobile com inteligência artificial, pensado para auxiliar estudantes no aprendizado de programação. A proposta é reunir apoio ao estudo, explicações de conceitos e prática de programação em uma experiência acessível e interativa.
+Aplicativo mobile com inteligÃªncia artificial, pensado para auxiliar estudantes no aprendizado de programaÃ§Ã£o. A proposta Ã© reunir apoio ao estudo, explicaÃ§Ãµes de conceitos e prÃ¡tica de programaÃ§Ã£o em uma experiÃªncia acessÃ­vel e interativa.
 
-- Apoio ao aprendizado de programação com recursos de IA.
-- Foco em estudo prático e compreensão de conceitos.
-- Desenvolvimento voltado para dispositivos móveis.
+- Apoio ao aprendizado de programaÃ§Ã£o com recursos de IA.
+- Foco em estudo prÃ¡tico e compreensÃ£o de conceitos.
+- Desenvolvimento voltado para dispositivos mÃ³veis.
 
-🔗 **Link do projeto:** *adicione aqui o endereço do repositório ou da demonstração.*
+ðŸ”— **Link do projeto:** *adicione aqui o endereÃ§o do repositÃ³rio ou da demonstraÃ§Ã£o.*
 
-### 2. 🐍 Códigos e projetos em Python
+### 2. ðŸ CÃ³digos e projetos em Python
 
-Repositório de exercícios, scripts e projetos desenvolvidos em Python durante meus estudos. Este espaço reúne práticas de lógica de programação, experimentos e soluções que demonstram minha evolução com a linguagem.
+RepositÃ³rio de exercÃ­cios, scripts e projetos desenvolvidos em Python durante meus estudos. Este espaÃ§o reÃºne prÃ¡ticas de lÃ³gica de programaÃ§Ã£o, experimentos e soluÃ§Ãµes que demonstram minha evoluÃ§Ã£o com a linguagem.
 
-- Exercícios e exemplos de programação.
-- Scripts e pequenas automações.
-- Projetos práticos desenvolvidos durante os estudos.
+- ExercÃ­cios e exemplos de programaÃ§Ã£o.
+- Scripts e pequenas automaÃ§Ãµes.
+- Projetos prÃ¡ticos desenvolvidos durante os estudos.
 
-🔗 **Link do repositório:** *adicione aqui o endereço do repositório Python.*
+ðŸ”— **Link do repositÃ³rio:** *adicione aqui o endereÃ§o do repositÃ³rio Python.*
 
-## 🎯 Objetivos profissionais
+## ðŸŽ¯ Objetivos profissionais
 
 - Aprofundar conhecimentos em desenvolvimento de software.
-- Evoluir em bancos de dados relacionais e não relacionais.
-- Explorar aplicações práticas de inteligência artificial.
-- Criar projetos que transformem conhecimento em soluções.
+- Evoluir em bancos de dados relacionais e nÃ£o relacionais.
+- Explorar aplicaÃ§Ãµes prÃ¡ticas de inteligÃªncia artificial.
+- Criar projetos que transformem conhecimento em soluÃ§Ãµes.
 - Aprender continuamente e colaborar com a comunidade de tecnologia.
 
-## 📫 Vamos conversar?
+## ðŸ“« Vamos conversar?
 
-Estou aberto a conexões, troca de conhecimentos e oportunidades de colaboração em projetos de tecnologia.
+Estou aberto a conexçµes, troca de conhecimentos e oportunidades de colaboraÃ§Ã£o em projetos de tecnologia.
 
-- 📧 **E-mail:** [joaogabrielkaw@gmail.com](mailto:joaogabrielkaw@gmail.com)
-- 📸 **Instagram:** [@9_lucio](https://www.instagram.com/9_lucio/)
-- 💼 **LinkedIn:** [João Gabriel Silva](https://www.linkedin.com/in/jo%C3%A3o-gabriel-silva-b8599743b/)
+- ðŸ“§ **E-mail:** [joaogabrielkaw@gmail.com](mailto:joaogabrielkaw@gmail.com)
+- ðŸ“¸ **Instagram:** [@9_lucio](https://www.instagram.com/9_lucio/)
+- ðŸ’¼ **LinkedIn:** [JoÃ£o Gabriel Silva](https://www.linkedin.com/in/jo%C3%A3o-gabriel-silva-b8599743b/)
 
 ---
 
@@ -107,6 +105,6 @@ Estou aberto a conexões, troca de conhecimentos e oportunidades de colaboraçã
 
 **Obrigado por visitar meu perfil!**
 
-*“Disciplina, estudo e tecnologia constroem novas possibilidades.”* 🚀
+*â€œDisciplina, estudo e tecnologia constroem novas possibilidades.â€* ðŸš€
 
 </div>
